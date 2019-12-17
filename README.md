@@ -3,5 +3,3 @@
 ## Bootstrap
 
 
-![ Diseño Web con Bootstrap]()
-
